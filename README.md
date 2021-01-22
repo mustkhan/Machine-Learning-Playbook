@@ -31,3 +31,12 @@ Developing my understanding of Convolutional Neural Networks by creating a CNN m
 <p align="center">
   <img src="Images/cifar-cnn.png" alt="NN Math" title="NN Math" height="300" /> 
 </p>
+
+### Transfer Learning (Using VGG-16 Weights On Cats And Dogs Dataset)
+
+I used the [architecture and weights of VGG-16 while modifying the final, classifier layer](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Cat%20and%20Dog%20Classifier%20(Transfer%20Learning).ipynb) on a cats and dogs dataset.
+
+<p align="center">
+  <img src="Images/cifar-cnn.png" alt="NN Math" title="NN Math" height="300" /> 
+</p>
+

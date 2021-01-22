@@ -36,7 +36,7 @@ Developing my understanding of Convolutional Neural Networks by creating a CNN m
 I [used](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Cat%20and%20Dog%20Classifier%20(Transfer%20Learning).ipynb) the architecture and weights of VGG-16 while modifying the final, classifier layer on a cats and dogs dataset.
 
 <p align="center">
-  <img src="Images/cat-and-dog.png" alt="Cat And Dog" title="at And Dog" height="300" /> 
+  <img src="Images/cat-and-dog.png" alt="Cat And Dog" title="Cat And Dog" height="300" /> 
 </p>
 
 ### Style Transfer
@@ -50,4 +50,8 @@ https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Style
 
 ### RNNs And LSTMs
 
-By creating a network based off of [Andrej Karpathy's post on RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) that uses LSTMs, I created a model that is able to generate new text based on text samples or inputs. In this case, I trained the model on Anna Karenina by Leo Tolstoy. The following is an output of the model after being trained:
+By creating a network based off of [Andrej Karpathy's post on RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) that uses LSTMs, I created a model that is able to generate new text based on text samples or inputs. In this case, I [trained the model](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Character%20Level%20LSTM.ipynb) on Anna Karenina by Leo Tolstoy. The following is an output of the model after being trained:
+
+<p align="center">
+  <img src="Images/anna-lstm.png" alt="LSTM Text Generation" title="LSTM Text Generation" height="300" /> 
+</p>

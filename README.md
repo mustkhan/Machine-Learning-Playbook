@@ -40,3 +40,11 @@ I [used](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/mas
 </p>
 
 ### Style Transfer
+
+Inspired by the paper: [Image Style Transfer Using Convolutional Neural Networks, by Gatys](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), I [implemented](
+https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Style%20Transfer%20With%20Deep%20Neural%20Networks.ipynb) Style Transfer. By using gradient descent to optimize a total loss function (made of a content loss and a style loss), the network manages to extract the content of the content image and the style of the style image in order to produce the target image.
+
+<p align="center">
+  <img src="Images/style-transfer.png" alt="Style Transfer" title="Style Transfer" height="200" /> <img src="Images/style-transfer.gif" alt="Style Transfer Demo" title="Style Transfer Demo" height="200" />
+</p>
+

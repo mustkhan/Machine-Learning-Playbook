@@ -48,3 +48,6 @@ https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Style
   <img src="Images/style-transfer-demo.png" alt="Style Transfer" title="Style Transfer" height="300" /> <img src="Images/style-transfer.gif" alt="Style Transfer Demo" title="Style Transfer Demo" height="300" />
 </p>
 
+### RNNs And LSTMs
+
+By creating a network based off of [Andrej Karpathy's post on RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) that uses LSTMs, I created a model that is able to generate new text based on text samples or inputs. In this case, I trained the model on Anna Karenina by Leo Tolstoy. The following is an output of the model after being trained:

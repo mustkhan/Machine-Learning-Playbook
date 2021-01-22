@@ -12,4 +12,8 @@ This is a collection of useful code, programs, notes and much more on machine le
 
 To begin with, "The Mathematics Behind Neural Networks" outlines my understanding of how NNs work as well as includes a demonstration of taking the foundtional mathematics and programming a NN from scratch in Python. 
 
+<p align="center">
+  <img src="Images/nn-math.png" alt="NN Math" title="NN Math" height="300" />
+</p>
+
 

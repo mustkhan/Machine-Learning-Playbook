@@ -6,4 +6,4 @@
 
 ## Introduction
 
-This is a collection of useful code, programs, notes and much more on machine learning. My goal is to practice and simultaneously demonstrate my understanding of foundational, intermediate and eventually advanced concepts in machine learning by building it all from scratch!
+This is a collection of useful code, programs, notes and much more on machine learning. My goal is to practice and demonstrate my understanding of foundational, intermediate and advanced concepts in machine learning by building it all from scratch!

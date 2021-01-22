@@ -26,7 +26,7 @@ Next, I made a [Dense NN](https://github.com/MustafaKhan670093/Machine-Learning-
 
 ### Convolutional Neural Networks
 
-I understood how CNNs worked by creating a CNN model architecture and using it to [classify objects](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Image%20Classification%20Using%20A%20CNN%20(CIFAR-10%20Dataset).ipynb) found in the CIFAR-10 Dataset. 
+Developing my understanding of Convolutional Neural Networks by creating a CNN model architecture and using it to [classify objects](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Image%20Classification%20Using%20A%20CNN%20(CIFAR-10%20Dataset).ipynb) found in the CIFAR-10 Dataset. A future goal is to create a mathematical document outlining how CNN works as well as an implementation completely from scratch in order to test this understanding. 
 
 <p align="center">
   <img src="Images/cifar-cnn.png" alt="NN Math" title="NN Math" height="300" /> 

@@ -16,12 +16,16 @@ To begin with, ["The Mathematics Behind Neural Networks"](https://github.com/Mus
   <img src="Images/nn-math.png" alt="NN Math" title="NN Math" height="300" />
 </p>
 
-### Dense NNs and Multi-Layer Perceptrons (on MNIST: Hand Written Digits Dataset)
+### Dense NNs and Multi-Layer Perceptrons (on MNIST and Fashion MNIST Datasets)
 
-Next, I made a [Dense NN](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Handwritten%20MNIST%20(Dense%20NN)%20ML%20Project.ipynb) that could classify hand written digits on MNIST and then redid the same project but with a [MLP network](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Handwritten%20MNIST%20(MLP)%20ML%20Project.ipynb).
+Next, I made a [Dense NN](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Handwritten%20MNIST%20(Dense%20NN)%20ML%20Project.ipynb) that could classify hand written digits on MNIST and then redid the same project but with a [MLP network](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Handwritten%20MNIST%20(MLP)%20ML%20Project.ipynb). I also made an [MLP](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Fashion%20MNIST%20(MLP)%20ML%20Project.ipynb) that could distinguish between the classes in the Fashion MNIST dataset.
 
 <p align="center">
   <img src="Images/digit.png" alt="NN Math" title="NN Math" height="200" />
+</p>
+
+<p align="center">
+  <img src="Images/fashion.png" alt="NN Math" title="NN Math" height="200" />
 </p>
 
 ### Fashion MNIST

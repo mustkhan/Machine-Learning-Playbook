@@ -24,4 +24,10 @@ Next, I made a [Dense NN](https://github.com/MustafaKhan670093/Machine-Learning-
   <img src="Images/digit.png" alt="NN Math" title="NN Math" height="200" /> <img src="Images/fashion.png" alt="NN Math" title="NN Math" height="200" />
 </p>
 
-### Fashion MNIST
+### Convolutional Neural Networks
+
+I understood how CNNs worked by creating a CNN model architecture and using it to [classify objects](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Image%20Classification%20Using%20A%20CNN%20(CIFAR-10%20Dataset).ipynb) found in the CIFAR-10 Dataset. 
+
+<p align="center">
+  <img src="Images/cifar-cnn.png" alt="NN Math" title="NN Math" height="300" /> 
+</p>

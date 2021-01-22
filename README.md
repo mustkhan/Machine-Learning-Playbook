@@ -7,3 +7,5 @@
 ## Introduction
 
 This is a collection of useful code, programs, notes and much more on machine learning. My goal is to practice and demonstrate my understanding of foundational, intermediate and advanced concepts in machine learning by building it all from scratch!
+
+To begin with, the "Mathematics Of Neural Networks" outlines my understanding of how NNs work as well as includes a demonstration of taking the foundtional mathematics and programming a NN from scratch in Python. 

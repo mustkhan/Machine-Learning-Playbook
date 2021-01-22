@@ -18,7 +18,7 @@ To begin with, ["The Mathematics Behind Neural Networks"](https://github.com/Mus
 
 ### Dense NNs and Multi-Layer Perceptrons (on Hand Written Digits MNIST)
 
-Next, I made a [Dense NN](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Handwritten%20MNIST%20(Dense%20NN)%20ML%20Project.ipynb) that could classify hand written digits on MNIST and then redid the same project but with a MLP network.
+Next, I made a [Dense NN](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Handwritten%20MNIST%20(Dense%20NN)%20ML%20Project.ipynb) that could classify hand written digits on MNIST and then redid the same project but with a [MLP network](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Handwritten%20MNIST%20(MLP)%20ML%20Project.ipynb).
 
 <p align="center">
   <img src="Images/digit.png" alt="NN Math" title="NN Math" height="200" />

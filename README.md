@@ -33,9 +33,10 @@ Developing my understanding of Convolutional Neural Networks by creating a CNN m
 </p>
 
 ### Transfer Learning
-I used the [architecture and weights of VGG-16 while modifying the final, classifier layer](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Cat%20and%20Dog%20Classifier%20(Transfer%20Learning).ipynb) on a cats and dogs dataset.
+I [used](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Cat%20and%20Dog%20Classifier%20(Transfer%20Learning).ipynb) the architecture and weights of VGG-16 while modifying the final, classifier layer on a cats and dogs dataset.
 
 <p align="center">
   <img src="Images/cat-and-dog.png" alt="Cat And Dog" title="at And Dog" height="300" /> 
 </p>
 
+### Style Transfer

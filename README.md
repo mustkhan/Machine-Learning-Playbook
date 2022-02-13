@@ -55,3 +55,7 @@ By creating a network based off of [Andrej Karpathy's post on RNNs](http://karpa
 <p align="center">
   <img src="Images/anna-lstm.png" alt="LSTM Text Generation" title="LSTM Text Generation" height="300" /> 
 </p>
+
+### Converting Trained NNs To Different Formats
+
+A lot of RND work is done using Pytorch. However, deploying models on edge devices usually requires a conversion to ONNX or to (Tensorflow and then) Tensorflow Lite. This [notebook](https://github.com/MustafaKhan670093/Machine-Learning-Playbook/blob/master/Converting_Trained_Neural_Networks_To_Different_Formats.ipynb) covers this conversion process.
